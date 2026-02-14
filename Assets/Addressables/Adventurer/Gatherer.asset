@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f62dbcd283737a41985b48c50fb5bfa, type: 3}
+  m_Name: Gatherer
+  m_EditorClassIdentifier: Assembly-CSharp::Adventurer
+  description: 
+  icon: {fileID: 0}
+  prefab:
+    m_AssetGUID: 837f6f0d63d3b5f4cb6c622fb29592f9
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  healthBar: {fileID: 0}
+  level: 1
+  health: 70
+  maxHealth: 100
+  attack: 1
+  defense: 1

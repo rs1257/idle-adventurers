@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 21382cc7a92b2fe49855f1a268d59775
+  m_SerializeEntries:
+  - m_GUID: 5086a9521630c9b4b8f5e7f83cb96ab7
+    m_Address: Assets/Prefabs/HealthBar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56231544407b0ca4282697ed1fd14b13
+    m_Address: Assets/Addressables/Enemy/Slime.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5da59e407e29c0340a8fd5ba18be55af
+    m_Address: Assets/Prefabs/HealthSegment.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 837f6f0d63d3b5f4cb6c622fb29592f9
+    m_Address: Assets/Prefabs/Adventurer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9b1fcf77ae55b24eb5b9606ba658c5d
+    m_Address: Assets/Prefabs/Enemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eca5edd159943254dae1ae28cc58cbd1
+    m_Address: Currency/Gold
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Currencies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbc388d7334c3804b99b9237eb43d1e7
+    m_Address: Assets/Addressables/Adventurer/Adventurer.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Adventurers
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a4897945ec4805944995c6008413559f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 02fc9998bd059734281e64af711ae9a6, type: 2}
+    - {fileID: 11400000, guid: 19a4929c83d4d60448cb2224577e9a78, type: 2}
